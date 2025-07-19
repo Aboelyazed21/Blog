@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Typeusi.github.io/Blog",
+  "homepage": "https://aboelyazed21.github.io/Blog/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
