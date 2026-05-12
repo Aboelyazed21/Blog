@@ -57,7 +57,7 @@ const Header: React.FC = () => {
             <Link to="/about" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300">About</Link>
             <Link to="/contact" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-300">Contact</Link>
             <a href="https://typeusi.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">My Pro</a>
-            <a href="https://aboelyazed21.github.io/Code-Force/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">💻 Codeforces</a>
+
             <a href="https://aboelyazed21.github.io/Gallary/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">🖼️ Gallery</a>
           </nav>
 
